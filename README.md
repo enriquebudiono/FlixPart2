@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/tkHK2s7iFT.gif" width=250><br>
+<img src="http://g.recordit.co/4qNzCxanyx.gif" width=250><br>
 
 ### Notes
 The challenge that I got when making the unit 2 is where I need to comfigure the tab bar where there is a slight problem with the code when I code it. The video also told me that if I delete a Label that I drag from screen to the code, I cannot just simply delete it from the code but also I need to delete it from the screen also.
